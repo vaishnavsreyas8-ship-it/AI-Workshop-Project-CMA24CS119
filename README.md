@@ -22,7 +22,7 @@ This project proposes an AI-based Student Productivity Assistant that helps user
 ## Tools & Technologies Used
 - Prompt Engineering
 - GitHub
-
+- Chatgpt 
 ## Working of the System
 The system takes user queries related to academics and productivity.  
 Using well-structured prompts, the AI generates meaningful responses such as study plans, explanations, and learning strategies.
